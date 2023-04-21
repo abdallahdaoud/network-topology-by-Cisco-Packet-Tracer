@@ -1,5 +1,5 @@
 # network-topology-by-Cisco-Packet-Tracer
-## project requirments:
+## project requirements:
 ### Using packet tracer, implement the following network topology and implement the following:
 1.	Assign IP addresses to all PCs.  
 2.	Assign IP addresses to all router interfaces following the criteria below.  
